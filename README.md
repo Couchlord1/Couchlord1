@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Couchlord1
+- 👋 Hi, I’m Dewel
 - 👀 I’m interested in growing my skills
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and IT
 - 💞️ I’m looking to collaborate on...something
 
 <!---
