@@ -6,5 +6,5 @@ I'm Dewel, I'm an up and coming IT Professional. Linkin > <a href="https://www.l
   - [osTicket: Prerequisites and Installation](https://github.com/Couchlord1/osticket-prereqs)
   - [osTicket: Post-Install and Ticket Lifecycle](https://github.com/Couchlord1/post-install-config)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Couchlord1/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Couchlord1/azure-network-protocols)
