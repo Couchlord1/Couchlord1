@@ -1,4 +1,4 @@
-I'm Dewel, I'm an up and coming IT Professional. Linkin > <a href="https://www.linkedin.com/feed/">here</a>
+I'm Dewel, I'm an up and coming IT Professional. Linkedin > <a href="https://www.linkedin.com/feed/">here</a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
